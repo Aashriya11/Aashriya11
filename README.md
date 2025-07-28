@@ -1,3 +1,4 @@
+![logo](https://github.com/Aashriya11/Aashriya11/blob/61b7bd1c555ef2ee3ae800449b43f5a6f7793bc3/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aashriya Rawat</h1>
 <h3 align="center">Turning raw data into real decisions | Data Analytics Enthusiast</h3>
 
