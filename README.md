@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aashriyarawat11@gmail.com**
 
-- 📄 My Resume [https://tinyurl.com/3zsu9mru](https://tinyurl.com/3zsu9mru)
+- 📄 My Resume [https://tinyurl.com/3zsu9mru](https://ibb.co/GvCb64jM)
 
 - 😄 Fun Fact: **A perfectionist at heart💖 — I find joy in refining the details others overlook.**
 
