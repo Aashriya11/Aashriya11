@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashriya11&label=Profile%20views&color=0e75b6&style=flat" alt="aashriya11" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aashriya11](https://github.com/Aashriya11)
+- 👨‍💻 View my portfolio at [https://aashriya-rawat-portfolio.netlify.app/](https://aashriya-rawat-portfolio.netlify.app/)
 
 - 📫 How to reach me **aashriyarawat11@gmail.com**
 
-- 📄 My Resume [https://tinyurl.com/3zsu9mru](https://drive.google.com/file/d/10L_t0DWivBp8LQliUHTuKyN9jpqxC32w/view?usp=sharing)
+- 📄 My Resume [https://tinyurl.com/3zsu9mru](https://drive.google.com/file/d/1DjvJ92SWpN0VOTV77zyd_CUSkGpC-Qp0/view?usp=drive_link)
 
 - 😄 Fun Fact: **A perfectionist at heart💖 — I find joy in refining the details others overlook.**
 
