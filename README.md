@@ -2,27 +2,36 @@
 <h1 align="center">Hi 👋, I'm Aashriya Rawat</h1>
 <h3 align="center">Turning raw data into real decisions | Data Analytics Enthusiast</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/Aashriya11/Aashriya11/blob/23e37d0445d1bb594bfd884a812b1598a7629b16/Analytics%20gif.gif">
+## 🫶🏻 My Story
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashriya11&label=Profile%20views&color=0e75b6&style=flat" alt="aashriya11" /> </p>
+I've always been fascinated by how business leaders make important decisions, what drives their thinking and how they solve complex business problems. One question has always stayed with me:
 
-- 👨‍💻 View my portfolio at [https://aashriya-rawat-portfolio.netlify.app/](https://aashriya-rawat-portfolio.netlify.app/)
+> "What information helps decision-makers choose the right direction?"
 
-- 📫 How to reach me **aashriyarawat11@gmail.com**
+That curiosity led me to discover Data Analytics during the final year of my BBA. It felt like the perfect combination of business understanding and analytical thinking, where data becomes the foundation for better decisions.
 
-- 📄 My Resume [https://tinyurl.com/3zsu9mru](https://drive.google.com/file/d/1DjvJ92SWpN0VOTV77zyd_CUSkGpC-Qp0/view?usp=drive_link)
+Since then, I've continuously challenged myself through real-world projects and analytics competitions, developing the ability to transform raw data into meaningful insights that solve business problems.
 
-- 😄 Fun Fact: **A perfectionist at heart💖 — I find joy in refining the details others overlook.**
+## 🤝 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aashriya-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashriya rawat" height="30" width="40" /></a>
+If you like asking “but why?” five times before touching the data, we’ll probably get along. Let’s connect.
+
+- 📧 **Email:** [aashriyarawat11@gmail.com](mailto:aashriyarawat11@gmail.com)
+- 🐙 **Portfolio:** [@aashriya-portfolio](https://aashriya-rawat-portfolio.netlify.app/)
+- ℹ️ **LinkedIn:** [@aashriya-rawat](https://www.linkedin.com/in/aashriya-rawat)
+
+---
+
+<p align="center">
+  <sub>Thanks for visiting! I believe every problem has a story, every dataset has a clue and every day is another chance to learn something new. ✨</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aashriya11&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashriya11&show_icons=true&locale=en&layout=compact" alt="aashriya11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashriya11&" alt="aashriya11" /></p>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aashriya11&theme=tokyonight&hide_border=true"
+  />
+</p>
